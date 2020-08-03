@@ -4,7 +4,8 @@ I made a memory game using python. The graphical user interface has been made wi
 In order to use the code you must have: 
 * python version: 3.5 
 * PyQt5 version: 5.15.0
-When the code is downloaded, change the path in memory_model.py to a path you want. Afterwards, open the source_gui.py and the game should work. 
+* When the code is downloaded, change the path in memory_model.py to a path you want. /*
+Afterwards, open the source_gui.py and the game should work. 
 
 Things that could be added to make it a more polished and robust game:
 1. Add the option for cards to display words or images.
